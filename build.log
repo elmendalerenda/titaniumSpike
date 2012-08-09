@@ -1,0 +1,31 @@
+Logfile initialized
+[INFO] logfile = /home/elmenda/workspace/testTitanium/build.log
+[DEBUG] /home/elmenda/.titanium/mobilesdk/linux/2.1.1.GA/android/builder.py simulator testTitanium /home/elmenda/workspace/android-sdk-linux /home/elmenda/workspace/testTitanium com.becode 3 WVGA800 
+[INFO] Building testTitanium for Android ... one moment
+[INFO] Titanium SDK version: 2.1.1 (07/27/12 14:01 0fd84a2)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.005726 seconds on emulator to get ready
+[DEBUG] com.becode installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /home/elmenda/workspace/testTitanium/Resources/ui/common/FirstView.js => /home/elmenda/workspace/testTitanium/build/android/bin/assets/Resources/ui/common/FirstView.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-ldpi splash screen at /home/elmenda/workspace/testTitanium/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-long-land-hdpi splash screen at /home/elmenda/workspace/testTitanium/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /home/elmenda/workspace/testTitanium/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /home/elmenda/workspace/testTitanium/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /home/elmenda/workspace/testTitanium/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /home/elmenda/workspace/testTitanium/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /home/elmenda/workspace/testTitanium/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /home/elmenda/workspace/testTitanium/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /home/elmenda/workspace/testTitanium/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /home/elmenda/workspace/testTitanium/Resources/android/images/res-notlong-land-mdpi/default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... testTitanium
+[INFO] Launching application ... testTitanium
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.becode/.TesttitaniumActivity }
+
